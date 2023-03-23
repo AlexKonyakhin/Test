@@ -1,0 +1,15 @@
+D:\Учёба Разработчик\Final_work\Final_code\bin\Debug\net6.0\Final_code.exe
+D:\Учёба Разработчик\Final_work\Final_code\bin\Debug\net6.0\Final_code.deps.json
+D:\Учёба Разработчик\Final_work\Final_code\bin\Debug\net6.0\Final_code.runtimeconfig.json
+D:\Учёба Разработчик\Final_work\Final_code\bin\Debug\net6.0\Final_code.dll
+D:\Учёба Разработчик\Final_work\Final_code\bin\Debug\net6.0\Final_code.pdb
+D:\Учёба Разработчик\Final_work\Final_code\obj\Debug\net6.0\Final_code.csproj.AssemblyReference.cache
+D:\Учёба Разработчик\Final_work\Final_code\obj\Debug\net6.0\Final_code.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба Разработчик\Final_work\Final_code\obj\Debug\net6.0\Final_code.AssemblyInfoInputs.cache
+D:\Учёба Разработчик\Final_work\Final_code\obj\Debug\net6.0\Final_code.AssemblyInfo.cs
+D:\Учёба Разработчик\Final_work\Final_code\obj\Debug\net6.0\Final_code.csproj.CoreCompileInputs.cache
+D:\Учёба Разработчик\Final_work\Final_code\obj\Debug\net6.0\Final_code.dll
+D:\Учёба Разработчик\Final_work\Final_code\obj\Debug\net6.0\refint\Final_code.dll
+D:\Учёба Разработчик\Final_work\Final_code\obj\Debug\net6.0\Final_code.pdb
+D:\Учёба Разработчик\Final_work\Final_code\obj\Debug\net6.0\Final_code.genruntimeconfig.cache
+D:\Учёба Разработчик\Final_work\Final_code\obj\Debug\net6.0\ref\Final_code.dll
